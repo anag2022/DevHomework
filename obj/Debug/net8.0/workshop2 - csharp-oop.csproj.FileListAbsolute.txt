@@ -1,0 +1,14 @@
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\bin\Debug\net8.0\workshop2 - csharp-oop.exe
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\bin\Debug\net8.0\workshop2 - csharp-oop.deps.json
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\bin\Debug\net8.0\workshop2 - csharp-oop.runtimeconfig.json
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\bin\Debug\net8.0\workshop2 - csharp-oop.dll
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\bin\Debug\net8.0\workshop2 - csharp-oop.pdb
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.AssemblyInfoInputs.cache
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.AssemblyInfo.cs
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.csproj.CoreCompileInputs.cache
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.dll
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\refint\workshop2 - csharp-oop.dll
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.pdb
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.genruntimeconfig.cache
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\ref\workshop2 - csharp-oop.dll
