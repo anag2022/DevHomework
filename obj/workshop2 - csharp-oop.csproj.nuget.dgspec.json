@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj": {}
+    "c:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj": {
+    "c:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj",
+        "projectUniqueName": "c:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj",
         "projectName": "workshop2 - csharp-oop",
-        "projectPath": "C:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj",
+        "projectPath": "c:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\workshop2 - csharp-oop.csproj",
         "packagesPath": "C:\\Users\\aghiculescu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\obj\\",
+        "outputPath": "c:\\Users\\aghiculescu\\OneDrive - Microsoft\\Desktop\\hw\\workshop-2\\workshop2 - csharp-oop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aghiculescu\\AppData\\Roaming\\NuGet\\NuGet.Config",

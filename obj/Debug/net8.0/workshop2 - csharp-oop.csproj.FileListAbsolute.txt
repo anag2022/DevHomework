@@ -12,3 +12,4 @@ c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csha
 c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.pdb
 c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.genruntimeconfig.cache
 c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\ref\workshop2 - csharp-oop.dll
+c:\Users\aghiculescu\OneDrive - Microsoft\Desktop\hw\workshop-2\workshop2 - csharp-oop\obj\Debug\net8.0\workshop2 - csharp-oop.sourcelink.json
